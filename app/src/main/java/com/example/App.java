@@ -8,7 +8,7 @@ import java.awt.event.WindowEvent;
 import java.awt.event.WindowAdapter;
 import javax.swing.Timer;// for ambiguity
 
-/* @author Innocent: https://github.com/INNOCENT-ops806 **/
+/* @author Innocent: https://github.com/Yahm3 **/
 public class App {
 	static	 final class SimpleFrame extends JFrame{
 		private JLabel timerLabel = new JLabel();
