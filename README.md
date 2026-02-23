@@ -50,6 +50,17 @@ Run manually: To test the script, you can run it directly:
 ./asset/water_reminder.sh
 ```
 
+## Screenshots:
+
+### startup view
+![startup_view](./docs/initial.png)
+
+### Trying to cancel/close the app 
+![cancelling_view](./docs/cancelling.png)
+
+### Close to ending 
+![ending_view](./docs/ending.png)
+
 ## Automation
 
 For continuous use, you can add a line to your ~/.bashrc file to ensure the reminder runs automatically every time you open a new terminal session.
