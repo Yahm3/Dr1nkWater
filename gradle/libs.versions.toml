@@ -1,0 +1,11 @@
+[versions]
+guava = "33.3.0-jre"
+junit-jupiter = "5.11.0"
+
+[libraries]
+guava = { group = "com.google.guava", name = "guava", version.ref = "guava" }
+
+# Matches 'libs.junit.jupiter'
+junit-jupiter = { group = "org.junit.jupiter", name = "junit-jupiter", version.ref = "junit-jupiter" }
+
+[plugins]
